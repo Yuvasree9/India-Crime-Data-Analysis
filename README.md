@@ -24,4 +24,6 @@ You can find the dataset here - <a href=https://data.world/rajanand/crime-in-ind
 - **Visualizing crime trends and hot spots**: Generate insightful visualizations such as crime type distribution, crime frequency by location, trends over time, and geographical heatmaps.
 - **Predictive analysis for crime rates using machine learning models**: Apply machine learning techniques like linear regression, decision trees, or random forests to forecast future crime rates and identify high-risk areas.
 
-For Enhancing the project and any other details, reach me out here- <a href=yuvasree.t9@gmail.com>Email</a>
+For Enhancing the project and any other details, reach me out here- yuvasree.t9@gmail.com
+
+Thanks for being here...Happy to connect!
